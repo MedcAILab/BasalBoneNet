@@ -36,7 +36,7 @@ We developed a coarse-to-fine deep learning framework for automatic assessment o
 | Maxillary Basal Bone Width | 0.96 [0.94–0.97] | 1.22±1.93 | 0.37 |
 | Mandibular Basal Bone Width  | 0.98 [0.97–0.99] | 0.68±0.82 | 0.67 |
 
-<sub><i>CCC: concordance correlation coefficient; CI: confidence interval; P-value: The one-sample T test was used to compare basal bone width measurement error.</i></sub>
+> CCC: concordance correlation coefficient; CI: confidence interval; P-value: The one-sample T test was used to compare basal bone width measurement error.
 
 ## Citation
 
